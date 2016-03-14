@@ -1,0 +1,68 @@
+h1 { 
+    color: #00f900; 
+    font-family: "Helvetica Neue", sans-serif; 
+    font-size: 50px; 
+    position: absolute; 
+    top: 35%; left: 50%; margin-right: -50%; 
+    transform: translate(-50%, -50%);
+    cursor:crosshair;}
+h2 { 
+    color: #00f900; 
+    font-family: "Helvetica Neue", sans-serif; 
+    font-size: 30px; 
+    position: absolute; 
+    top: 43%; left: 50%; margin-right: -50%; 
+    transform: translate(-50%, -50%);
+    cursor:crosshair;}
+h4 { 
+    color: #00f900; 
+    font-family: "Helvetica Neue", sans-serif; 
+    font-size: 25px; 
+    text-align: center;
+    margin: 100px;
+    line-height: 35px;
+    cursor:crosshair;}
+p { 
+    color: white; 
+    font-family: "Helvetica Neue", sans-serif; 
+    font-size: 15px; 
+    text-align: center;
+    line-height: 22px;
+    cursor:crosshair;}
+button { 
+    background-color: #000; 
+    color: #00f900; 
+    font-family: "Helvetica Neue", sans-serif; 
+    font-size: 45px; 
+    position: absolute; 
+    top: 57%; left: 50%; margin-right: -50%; 
+    transform: translate(-50%, -50%);
+    cursor:crosshair;}
+a:link {
+    color: mediumspringgreen;
+    text-decoration: none;
+    cursor:crosshair;}
+a:visited {
+    color: darkgreen;
+    text-decoration: none;
+    cursor:crosshair;}
+a:hover {
+    color: black;
+    text-decoration: none;
+    cursor:crosshair;}
+a:active {
+    color: darkred;
+    text-decoration: none;
+    cursor:crosshair;}
+body {
+    background-color: #000;
+    cursor:crosshair;}
+div {cursor:crosshair;}
+footer { 
+    color: dimgray; 
+    font-family: "Helvetica Neue", sans-serif; 
+    font-size: 10px; 
+    position: fixed;
+    bottom: 0;
+    text-align:left;
+    cursor:crosshair;}
